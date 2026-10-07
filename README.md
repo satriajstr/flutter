@@ -1,4 +1,7 @@
-# coba1
+# Flutter E-Money App
+
+Julius Satria Agung
+152024049
 
 A new Flutter project.
 
